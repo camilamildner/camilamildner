@@ -1,4 +1,4 @@
-Olá! Eu sou a Camila Mildner 🤘
+Olá! Eu sou a Camila Mildner.
 
  👩‍💻 Trabalho com Testes de Software / QA
  
