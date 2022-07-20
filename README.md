@@ -1,8 +1,7 @@
 Olá! Eu sou a Camila Mildner.
 
  👩‍💻 Trabalho com Testes de Software / QA
- 
- 👩 Colaboradora na comunidade Girls Testing
+
  
  ##
 
