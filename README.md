@@ -1,6 +1,6 @@
-Olá! Eu sou a Camila Mildner.
+I'm Camila Mildner.
 
- 👩‍💻 Trabalho com Testes de Software / QA
+ 👩‍💻 I've been working as QA Engineer and currently I'm learning and working on QA Automation.
 
  
  ##
